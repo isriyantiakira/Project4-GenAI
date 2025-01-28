@@ -1,0 +1,149 @@
+{
+    "address": "Marina Bay Sands Residences, Marina Bay",
+    "property_type": "Condo",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 1700,
+    "key_features": ["Infinity pool", "Sky garden", "Gymnasium"],
+    "nearby_amenities": ["Marina Bay MRT Station", "Marina Bay Sands Shopping Mall", "Singapore Management University"],
+    "price": "$3,500,000",
+    "unique_selling_points": "Luxurious living in the heart of Singapore's central business district with stunning views of the iconic Marina Bay Sands. This fully furnished 3 bedroom, 2 bathroom condo boasts modern and stylish interiors, a spacious balcony, and access to world-class facilities such as the infinity pool and sky garden. With top schools like Singapore Management University within walking distance and easy access to public transportation and shopping at Marina Bay Sands, this is the perfect home for professionals and families looking for convenience and luxury.",
+}
+--------------------
+
+{
+    "address": "Marina Bay Residences, District 1",
+    "property_type": "Condo",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 1500,
+    "key_features": ["Swimming Pool", "Gym", "Balcony", "Modern Kitchen"],
+    "nearby_amenities": ["Singapore Management University", "Marina Bay MRT Station", "Marina Bay Sands", "Marina Square Shopping Mall"],
+    "price": "$2,500,000",
+    "unique_selling_points": ["Panoramic views of Marina Bay", "Luxurious and modern design", "Convenient location with easy access to public transportation and shopping"],
+    "listing_agent": "John Smith",
+    "contact_number": "+65 9876 5432"
+}
+--------------------
+
+{
+    "address": "1 Marina Boulevard, District 01",
+    "property type": "Condo",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size (sqft)": 1500,
+    "key features": ["Swimming pool", "Balcony", "Modern kitchen"],
+    "nearby amenities": {
+        "schools": ["Singapore Management University", "Cantonment Primary School", "Outram Secondary School"],
+        "MRT stations": ["Marina Bay MRT", "Raffles Place MRT"],
+        "shopping malls": ["Marina Square", "Raffles City Shopping Centre"]
+    },
+    "price": "S$ 2,500,000",
+    "unique selling points": [
+        "Panoramic views of Marina Bay",
+        "Luxurious living in the heart of the city",
+        "Convenient access to multiple schools and transportation options"
+    ]
+}
+--------------------
+
+{
+    "address": "Serangoon Ave 2",
+    "property_type": "condo",
+    "number_of_bedrooms": 3,
+    "number_of_bathrooms": 2,
+    "size": "1,200 sqft",
+    "key_features": ["swimming pool", "balcony", "modern kitchen"],
+    "nearby_amenities": ["NEX shopping mall", "Serangoon MRT station", "Maris Stella High School"],
+    "price": "$1.5 million",
+    "unique_selling_points": "Located in the popular district of Serangoon, this stunning condo offers a luxurious lifestyle with its modern and spacious interiors. The highlight of this property is the beautiful swimming pool and balcony, perfect for relaxing and entertaining. With top-rated schools like Maris Stella High School and convenient access to public transportation and shopping, this is the ideal home for families. Don't miss the opportunity to own this gem in the heart of Singapore." 
+}
+--------------------
+
+{
+  "address": "Clementi Avenue 2, Clementi",
+  "property_type": "condo",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqft": 1200,
+  "key_features": ["swimming pool", "balcony", "modern kitchen"],
+  "nearby_amenities": ["Nan Hua Primary School", "Clementi MRT station", "Clementi Mall"],
+  "price": "$1.2 million",
+  "unique_selling_points": ["Located in a popular and well-established neighborhood", "Close proximity to reputable schools and public transportation", "Spacious and well-maintained unit with modern amenities"],
+}
+--------------------
+
+{
+  "address": "3 Ang Mo Kio Avenue 10, Singapore 569730",
+  "property_type": "HDB",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "size_sq_ft": 1200,
+  "key_features": ["Balcony", "Renovated Kitchen", "High Floor"],
+  "nearby_schools": ["Ang Mo Kio Primary School", "Jing Shan Primary School", "Deyi Secondary School"],
+  "nearby_mrt": ["Ang Mo Kio MRT Station", "Yio Chu Kang MRT Station"],
+  "nearby_malls": ["AMK Hub", "Junction 8"],
+  "price": "$800,000",
+  "unique_selling_points": "This HDB unit is located in a highly sought-after district with excellent schools and convenient access to public transportation and shopping malls. It also boasts a spacious balcony and a modern kitchen, perfect for entertaining guests or enjoying a quiet evening at home."
+}
+--------------------
+
+{
+  "address": "Orchard Road, District 9, Singapore",
+  "property_type": "Condo",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqft": 1200,
+  "key_features": ["Swimming Pool", "Balcony", "Modern Kitchen"],
+  "nearby_amenities": ["Anglo-Chinese School (Junior)", "Somerset MRT Station", "313@Somerset Mall"],
+  "price": "$1,500,000",
+  "unique_selling_points": "Located in prime shopping district, walking distance to popular schools and MRT station.",
+}
+--------------------
+
+{
+  "address": "The Sail @ Marina Bay, Marina Boulevard, District 01",
+  "property_type": "Condo",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqft": 1500,
+  "key_features": ["Swimming Pool", "Balcony", "Modern Kitchen"],
+  "nearby_schools": ["Cantonment Primary School", "Singapore Management University", "Raffles Girls' School"],
+  "nearby_mrt": ["Marina Bay MRT Station", "Raffles Place MRT Station"],
+  "nearby_malls": ["Marina Square", "Raffles City Shopping Centre", "Suntec City Mall"],
+  "price": "$2,500,000",
+  "unique_selling_points": "Panoramic view of Marina Bay and city skyline, walking distance to CBD and major attractions, luxurious and modern living experience"
+}
+--------------------
+
+{
+  "address": "Orchard Road, District 9",
+  "property_type": "Condo",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqft": 1500,
+  "key_features": ["Swimming Pool", "Balcony", "Modern Kitchen"],
+  "nearby_schools": ["Anglo-Chinese School (Junior)", "Raffles Girls' School"],
+  "nearby_mrt": ["Orchard MRT Station", "Somerset MRT Station"],
+  "nearby_malls": ["ION Orchard", "Takashimaya Shopping Centre"],
+  "price": "$2,500,000",
+  "unique_selling_points": "Located in the heart of Orchard Road, this luxurious condo offers a prime location and top-notch amenities, including a state-of-the-art fitness center and 24-hour concierge service. With its modern design and spacious layout, this unit is perfect for families or professionals looking for a convenient and comfortable living space. Don't miss out on the opportunity to live in one of the most prestigious and sought-after areas in Singapore!" 
+} 
+--------------------
+
+{
+    "address": "Marina Bay Sands, Marina Bay",
+    "property_type": "Condo",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size": "1,500 sqft",
+    "key_features": ["Infinity pool", "Balcony with panoramic view", "Fully equipped modern kitchen"],
+    "nearby_amenities": {
+        "schools": ["Singapore Management University", "Cantonment Primary School", "River Valley Primary School"],
+        "mrt_stations": ["Marina Bay MRT", "Bayfront MRT"],
+        "shopping_malls": ["Marina Bay Sands Shoppes", "Marina Square", "The Shoppes at Marina Bay Sands"]
+    },
+    "price": "$4,500,000",
+    "unique_selling_points": ["Iconic waterfront location", "Luxurious lifestyle with access to Marina Bay Sands amenities", "Close proximity to top schools and MRT stations"]
+}
+--------------------
